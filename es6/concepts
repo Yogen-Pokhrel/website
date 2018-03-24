@@ -1,0 +1,42 @@
+Use ... operator in function parameter if you want to pass more parameters
+like function mul( x, ...y)
+it can take any number of parameters
+this is called as REST
+
+
+... operator can also be used while calling funtion to change array contents to comma separated values
+this is called as spread.
+
+-------------------------------------------------------------------------------------------------
+Function in es6 is written as 
+
+let functionName =( parameters) => {
+
+-------------------------------------------------------------------------------------------------
+In object literals 
+if you want to store the key as a variable the use [] braces
+
+let key="Its my key"
+let value="This is the value"
+ let objectName = {
+
+[key]=value,
+name="This is me",
+concationationFunc(){
+ 
+return [key]+" "+name;
+
+
+}
+--------------------------------------------------------------------------------------------------
+templates
+
+Here we use `` instead of "" to create strings such that while concatenating no + operator is neeed 
+example 
+ let a= "I am "
+let b="yogen"
+conventional technique let c=a+" "+b;
+modern technique let c=`${a}\ncan also be addded ${b}
+
+
+--------------------------------------------------------------------------------------------

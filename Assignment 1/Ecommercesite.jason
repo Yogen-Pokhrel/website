@@ -1,0 +1,82 @@
+[
+{"productName":"remote",
+    "productPrice":1000,
+     "productId":1
+    "sellerName": ["Motorola", "GreenMobiles", "Mobile9"],
+    "price": [13000, 13599, 13550],
+    "bestBuyPrice": 13000,
+    "inStock": true,
+    "category": "Mobiles",
+    "discount": "10%"
+   },
+    {"productName":"tv",
+    "productPrice":10000,
+    "productId":2
+    "sellerName": ["Motorola", "GreenMobiles", "Mobile9"],
+    "price": [13000, 13599, 13550],
+    "bestBuyPrice": 13000,
+    "inStock": true,
+    "category": "electronics",
+    "discount": "50%"
+   },
+    {"productName":"monitor",
+    "productPrice":5000,
+    "productId":3
+    "sellerName": ["Motorola", "GreenMobiles", "Mobile9"],
+    "price": [13000, 13599, 13550],
+    "bestBuyPrice": 13000,
+    "inStock": true,
+    "category": "electronics",
+    "discount": "10%"
+   },
+    {"productName":"CPU",
+    "productPrice":10000,
+    "productId":4
+    "sellerName": ["Motorola", "GreenMobiles", "Mobile9"],
+    "price": [13000, 13599, 13550],
+    "bestBuyPrice": 13000,
+    "inStock": true,
+    "category": "electronics",
+    "discount": "10%"
+   },
+     {"productName":"jeans",
+    "productPrice":1000,
+     "productId":5
+     "sellerName": ["Motorola", "GreenMobiles", "Mobile9"],
+    "price": [13000, 13599, 13550],
+    "bestBuyPrice": 13000,
+    "inStock": true,
+    "category": "clothes",
+    "discount": "10%"
+   },
+    {"productName":"shoes",
+    "productPrice":1200,
+    "productId":6
+    "sellerName": ["Motorola", "GreenMobiles", "Mobile9"],
+    "price": [13000, 13599, 13550],
+    "bestBuyPrice": 13000,
+    "inStock": true,
+    "category": "clothes",
+    "discount": "10%"
+   },
+    {"productName":"jacket",
+    "productPrice":2000,
+    "productId":7
+    "sellerName": ["Motorola", "GreenMobiles", "Mobile9"],
+    "price": [13000, 13599, 13550],
+    "bestBuyPrice": 13000,
+    "inStock": true,
+    "category": "clothes",
+    "discount": "10%"
+   },
+    {"productName":"watch",
+    "productPrice":1000,
+    "productId":8
+    "sellerName": ["Motorola", "GreenMobiles", "Mobile9"],
+    "price": [13000, 13599, 13550],
+    "bestBuyPrice": 13000,
+    "inStock": true,
+    "category": "assories",
+    "discount": "10%"
+   }
+   ]
